@@ -1,6 +1,6 @@
-<p align="center"><img src = "https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="700" height="250"></p>
+<p align="center"><img src = "https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width=900" height="350"></p>
 <h1 align="center">Hi 👋, I'm Bervelin Lumesa</h1>
-<h3 align="center">Data scientist consultant interested in machine learning, survey data management and analysis, dashboard creation, mobile data collection, sampling and programming. I have at least 4 years of proven experience in the field of data.</h3>
+<h3 align="justify">Data scientist consultant interested in machine learning, survey data management and analysis, dashboard creation, mobile data collection, sampling and programming. I have at least 4 years of proven experience in the field of data.</h3>
 
 
 
@@ -19,4 +19,5 @@
 <p align="left"> <a href="https://cran.r-project.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cran.r-project.org/Rlogo.svg" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://getodk.org/" target="_blank" rel="noreferrer"> <img src="https://getodk.org/assets/svg/logo.svg" width="40" height="40"/> </a>
 </p>
 
-
+### Visitors : 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bervelin-lumesa.bervelin-lumesa)
