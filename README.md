@@ -28,6 +28,3 @@
 - [6 - Conception du formulaire : les feuilles excel](https://www.youtube.com/watch?v=6gQ6_tKAPCQ)
 <!-- YOUTUBE:END -->
  
-# Visits : 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bervelin-lumesa.bervelin-lumesa)
