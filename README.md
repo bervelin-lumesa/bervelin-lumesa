@@ -1,4 +1,4 @@
-<p align="center"><img src = "https://images.pexels.com/photos/2061168/pexels-photo-2061168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width=900" height="350"></p>
+
 <h1 align="center">Hi 👋, I'm Bervelin Lumesa</h1>
 <h3 align="justify">Data scientist consultant interested in machine learning, survey data management and analysis, dashboard creation, mobile data collection, sampling and programming. I have at least 4 years of proven experience in the field of data.</h3>
 
