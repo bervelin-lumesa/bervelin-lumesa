@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bervelin Lumesa</h1>
-<h3 align="justify">Data scientist consultant interested in machine learning, survey data management and analysis, dashboard creation, mobile data collection, sampling and programming. I have at least 4 years of proven experience in the field of data.</h3>
+<h3 align="justify">I'm a Statistician and certified Data Scientist with over 6 years of experience in quantitative research. My expertise includes implementing statistical studies, setting up mobile data collection systems, real-time monitoring of operations through dashboards, data cleaning, data analysis, and creating reproducible reports. I also provide training on the use of tools such as R, Python, SPSS, Stata, QGIS, CSPro, and XLSForm (ODK, KOBO, SurveyCTO)..</h3>
 
 
 
