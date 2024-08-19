@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bervelin Lumesa</h1>
-<h3 align="justify">I'm a Statistician and certified Data Scientist with over 6 years of experience in quantitative research. My expertise includes implementing statistical studies, setting up mobile data collection systems, real-time monitoring of operations through dashboards, data cleaning, data analysis, and creating reproducible reports. I also provide training on the use of tools such as R, Python, SPSS, Stata, QGIS, CSPro, and XLSForm (ODK, KOBO, SurveyCTO)..</h3>
+<h3 align="justify">I'm a Statistician and a certified Data Scientist with over 6 years of experience in quantitative research. My expertise includes implementing statistical studies, setting up mobile data collection systems, real-time monitoring of operations through dashboards, data cleaning, data analysis, creating reproducible reports, and integrating artificial intelligence into applications. I also provide training on the use of tools such as R, Python, SPSS, Stata, QGIS, CSPro, and XLSForm (ODK, KOBO, SurveyCTO).</h3>
 
 
 
